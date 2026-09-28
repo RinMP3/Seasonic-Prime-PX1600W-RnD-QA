@@ -104,6 +104,15 @@ Direct hot-air thermal stress tests performed without bottom preheating:
 
 ---
 
+## 7. Test Equipment
+
+* **Yihua 948DB+ II** — Soldering Station
+* **Yihua 959D II** — Hot Air Rework Station
+* **Voltcraft VC272** — Digital Multimeter
+* **UNI-T UT320D** — Thermometer with K-type Thermocouple
+
+---
+
 > [!NOTE]
 >  This entire audit was compiled directly on a mobile phone, as my primary PC failed and I had to sell the remaining working components to fund a future build.
 
