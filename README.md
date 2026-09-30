@@ -1,4 +1,4 @@
-# Seasonic Prime PX1600 RnD & QA & QC
+# Seasonic Prime PX-1600 RnD & QA & QC
 
 ---
 
